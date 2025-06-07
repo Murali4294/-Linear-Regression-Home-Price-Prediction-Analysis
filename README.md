@@ -16,7 +16,6 @@ Price (target variable)
 3. Data Preprocessing
 Handle missing values
 Encoding categorical variables 
-Outlier removal using IQR or z-score.
 Feature scaling (standardization or normalization).
 Train-test split
 
